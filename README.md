@@ -2,3 +2,4 @@
 touch hello_world.py
 nano hello_world.py
 print("hello class how are you")
+git add hello_world.py
