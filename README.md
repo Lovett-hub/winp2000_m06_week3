@@ -79,11 +79,10 @@ These commands are essential for navigating the file system, managing files, and
 ##Showing different linux flavours through a table
 
 **| Desktop linux  | Server linux | Embedded Linux |**
-  |----------|----------|----------|
-  | Budgie |Linux mint| Ubuntu Snappy |
-  |  GNOME 3 | Ubuntu | Raspberry PI Os|
-  | Fluxbox|Oracle Linux|----|
-  |Ubuntu MATE|Kali Linux|-----|
+  |----------------|--------------|----------------|
+  |     Budgie     |Linux mint    | Ubuntu Snappy  |
+  |  GNOME 3       | Ubuntu       | Raspberry PI Os|
+  
 
 - Task 3: Complete ✅
 
