@@ -78,10 +78,11 @@ These commands are essential for navigating the file system, managing files, and
 
 ##Showing different linux flavours through a table
 
-**| Desktop linux  | Server linux | Embedded Linux |**
-  |----------------|--------------|----------------|
-  |     Budgie     |Linux mint    | Ubuntu Snappy  |
-  |  GNOME 3       | Ubuntu       | Raspberry PI Os|
+| Linux Desktop flavors    | Linux Server flavors |
+| -------- | ------- |
+| Cinnamon  | Ubuntu   |
+| gnome3 | ClearOS   |
+| Kubuntu  | SlackWare   |
   
 
 - Task 3: Complete ✅
