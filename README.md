@@ -58,9 +58,9 @@ Here are some **common Linux commands** that are fundamental for navigating and 
 
 These commands are essential for navigating the file system, managing files, and controlling processes in Linux systems.
 
-| Header 1 | Header 2 | Header 3 |
+| Car Brand | Horsepower | Valve |
 |----------|----------|----------|
-| Car Brand | BMW | Mercedez |
-|  Color | Blue | red |
+| BMW |2000| v8 |
+|  Mercedez | 3500 | v6 |
 
 
