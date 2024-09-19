@@ -9,28 +9,31 @@
 # Learning About Linux
 
 ## Introduction
-Important facts about Linux are covered in this document, including its background, popular distributions, and fundamental commands. In today's computing environments, Linux is a robust and popular operating system that can be found on both servers and desktop computers. Gaining an understanding of Linux's distributions, history, and standard commands will help you use it efficiently.
+I have important details about linux in this document,like linux background, its distributions and fundamental commands and other things.
+
+The Linux operating system comprises several different pieces:
+
+1. **Bootloader** –  The software that manages the boot process of your computer. 
+2. **Kernel** –  The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.
+3. **Init System** – This is a sub-system that bootstraps the user space and is charged with controlling daemons. 
+4.**Daemons** – These are background services (printing, sound, scheduling, etc.) that either start up during boot or after you log into the desktop.
+5.**Graphical server** – This is the sub-system that displays the graphics on your monitor. It is commonly referred to as the X server or just X.
+
+
+Linux is a popular, robust  operating system that can be found on both servers and desktop computers.
+But Linux also is different from other operating systems in many important ways. First, and perhaps most importantly, Linux is open source software. The code used to create Linux is free and available to the public to view, edit, and—for users with the appropriate skills—to contribute to.
 
 
 ## Section 1: Linux History
-A Finnish computer science student named Linus Torvalds developed the Linux kernel in 1991 as an open-source substitute for the MINIX operating system. The heart of the Linux operating system is the Linux kernel, which controls hardware resources and permits the execution of programs.
-
-
-Linux has developed into one of the most significant operating systems in existence over time. Everything is powered by it, including web servers, supercomputers, Android-powered smartphones, and Internet of Things gadgets. Its open-source design promotes community growth and cooperation, which has aided in its quick expansion and broad industry adoption.
-
+After AT&T had dropped out of the Multics project, the Unix operating system was conceived and implemented by Ken Thompson and Dennis Ritchie (both of AT&T Bell Laboratories) in 1969 and first released in 1970. Later they rewrote it in a new programming language, C, to make it portable. The availability and portability of Unix caused it to be widely adopted, copied and modified by academic institutions and businesses.
 
 
 - Task 2: In Progress 🚧
 
   
-### Key Contributors:
-- **Linus Torvalds**: Creator of the Linux kernel.
-- **The GNU Project**: Contributed essential system components, leading to the commonly used term "GNU/Linux."
 
-Linux is renowned for its stability, security, and versatility, making it a cornerstone in the technology industry.
 
-## Section 2: Linux Distributions
-A **Linux distribution** (often called a "distro") is a complete operating system built around the Linux kernel. Distributions typically include the Linux kernel, system utilities, libraries, and often a graphical interface (GUI). They are designed to meet the needs of different user groups and use cases.
+## Section 2: Linux Distributions: **Linux distribution** comprises a Linux kernel, an init system (such as systemd, OpenRC, or runit), GNU tools and libraries, documentation, and many other types of software (such as IP network configuration utilities and the getty TTY setup program, among others). Optionally, to provide a desktop experience (most commonly the Mesa userspace graphics drivers) a display server (the most common being the X.org Server, or, more recently, a Wayland compositor such as Sway, KDE's KWin, or GNOME's Mutter), a desktop environment (most commonly GNOME, KDE Plasma, or Xfce), a sound server (usually either PulseAudio or more recently PipeWire), and other related programs may be included with the distribution or are installable by the user.
 
 ### Popular Linux Distributions:
 - **Ubuntu**: User-friendly and great for beginners; based on Debian.
@@ -70,12 +73,17 @@ Here are some **common Linux commands** that are fundamental for navigating and 
 
 These commands are essential for navigating the file system, managing files, and controlling processes in Linux systems.
 
-just a table showing details.
+**Reference** : https://en.wikipedia.org/wiki/Linux
+**Reference** : https://www.linux.com/what-is-linux/
 
-| Car Brand | Horsepower | Valve |
-|----------|----------|----------|
-| BMW |2000| v8 |
-|  Mercedez | 3500 | v6 |
+##Showing different linux flavours through a table
+
+**| Desktop linux  | Server linux | Embedded Linux |**
+  |----------|----------|----------|
+  | Budgie |Linux mint| Ubuntu Snappy |
+  |  GNOME 3 | Ubuntu | Raspberry PI Os|
+  | Fluxbox|Oracle Linux|----|
+  |Ubuntu MATE|Kali Linux|-----|
 
 - Task 3: Complete ✅
 
