@@ -1,5 +1,10 @@
 **Savio Lovett : 500225812**
 
+# Project Status
+
+- Task 1: Not Started ⏳
+
+
 # winp2000_m06_week3
 # Learning About Linux
 
@@ -11,6 +16,10 @@ Linux began in 1991 when Linus Torvalds, a Finnish computer science student, cre
 
 Over the years, Linux has evolved into one of the most important operating systems in the world. It powers everything from web servers and supercomputers to mobile devices (like Android) and IoT devices. Its open-source nature encourages community collaboration and development, which has contributed to its rapid growth and widespread adoption in various industries.
 
+
+- Task 2: In Progress 🚧
+
+  
 ### Key Contributors:
 - **Linus Torvalds**: Creator of the Linux kernel.
 - **The GNU Project**: Contributed essential system components, leading to the commonly used term "GNU/Linux."
@@ -62,5 +71,8 @@ These commands are essential for navigating the file system, managing files, and
 |----------|----------|----------|
 | BMW |2000| v8 |
 |  Mercedez | 3500 | v6 |
+
+- Task 3: Complete ✅
+
 
 
